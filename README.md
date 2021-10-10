@@ -1,6 +1,6 @@
 # Tyterodactl BETA
 
-## How to play?
+## How to download and play?
 - Downlaod the folder by clicking the green "code" button at the top right corner
 - Now click on "downlaod zip"
 - Extract the archive
