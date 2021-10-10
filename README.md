@@ -5,3 +5,6 @@
 - Now click on "downlaod zip"
 - Extract the archive
 - Then execute the Tyterodactl.exe file and the game will launch
+
+##Pequm
+A new fancy rendering techinique that allows our game to look like a next gen game! 
